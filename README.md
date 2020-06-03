@@ -15,6 +15,12 @@ It will generate:
 	Switched to a new branch '1591138031_add_line_items_to_order'	
 
 
+## Who 
+
+- Inspired by Phoebe Beckinger
+- Implement it by Yannis Kolovos
+
+
 ## Development
 
 After checking out the repo, run `bin/setup` to install dependencies. Then, run `rake spec` to run the tests. You can also run `bin/console` for an interactive prompt that will allow you to experiment.
